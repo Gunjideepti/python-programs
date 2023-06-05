@@ -1,0 +1,7 @@
+n=int(input("entr no"))
+def no1(n):
+   if(n>17):
+       return 2*(n-17)
+   else:
+        return (17-n)
+print(no1(n))
