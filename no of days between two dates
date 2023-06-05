@@ -1,0 +1,4 @@
+from datetime import date
+fst=date(2024,5,11)
+sec=date(2024,5,24)
+print(sec-fst)
